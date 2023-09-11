@@ -1,4 +1,4 @@
-#### Hexagonal Architecture with TypeScript
+## Hexagonal Architecture with TypeScript
 
 This template serves as an example of the implementation of a Hexagonal Architecture using TypeScript.
 
