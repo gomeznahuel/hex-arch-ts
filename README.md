@@ -40,7 +40,7 @@ my-api/
 │   │           └── ...
 │   │
 │   ├── domain/
-│   │   ├── models/
+│   │   ├── entities/
 │   │   │   ├── User.ts    // Modelo de usuario
 │   │   │   ├── Product.ts // Modelo de producto
 │   │   │   └── ...
